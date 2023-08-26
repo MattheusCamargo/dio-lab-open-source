@@ -72,6 +72,14 @@
         <code>[![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/SEUUSERNAME/)</code>
       </td>
     </tr>
+    <tr>
+      <td>
+        <img align="center" alt="TikTok" src="https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=0E76A8">
+      </td>
+      <td>
+        <code>[![TikTok](https://img.shields.io/badge/TikTok-000?style=for-the-badge&logo=tiktok&logoColor=0E76A8)](https://www.tiktok.com/@SEUUSERNAME)</code>
+      </td>
+    </tr>
   </tbody>
   <tfoot></tfoot>
 </table>
